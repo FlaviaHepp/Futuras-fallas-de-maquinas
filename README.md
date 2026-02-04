@@ -108,7 +108,7 @@ Se entrenaron y compararon múltiples enfoques:
 
 - **Python**
 - **pandas, numpy**
-- **matplotlib, seaborn**
+- **matplotlib, `seaborn**`
 - **scikit-learn**
 - **TensorFlow / Keras**
 - **XGBoost**
